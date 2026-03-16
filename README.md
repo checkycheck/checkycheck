@@ -1,84 +1,134 @@
-# Hi 👋 I'm Dungji Zachariah
+<h1 align="center">Hi 👋, I'm Dungji Zachariah</h1>
 
-🚀 **Full Stack Software Engineer | AI Engineer**
-⚙️ Backend: **Node.js, NestJS, TypeScript**
-📱 Mobile: **Flutter, React Native**
-🌐 Web: **Next.js, React**
-🤖 **AI Engineering & Machine Learning**
+<p align="center">
+Full Stack Software Engineer • AI Engineer
+</p>
 
-I build scalable backend systems, mobile applications, modern web platforms, and AI-powered solutions.
-
----
-
-## 🌍 About Me
-
-* 💻 Full Stack Engineer specializing in backend architecture
-* 📱 Mobile developer building cross-platform apps
-* 🤖 AI enthusiast working on intelligent applications
-* 🚀 Passionate about building scalable systems and innovative products
+<p align="center">
+Building scalable backend systems, intelligent AI applications, and modern mobile & web platforms.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
+
+* 💻 Full Stack Engineer specializing in **Node.js & NestJS architectures**
+* 📱 Mobile developer building apps with **Flutter & React Native**
+* 🌐 Web developer building modern platforms with **Next.js**
+* 🤖 AI engineer working on **machine learning and computer vision**
+* 🚀 Passionate about **building scalable systems and innovative products**
+
+---
+
+## 🧠 Tech Stack
 
 ### Backend
 
-Node.js • NestJS • TypeScript • MongoDB • PostgreSQL • REST APIs • WebSockets
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,mongodb,postgres,docker" />
+</p>
 
 ### Mobile
 
-Flutter • React Native
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react" />
+</p>
 
 ### Web
 
-Next.js • React • Tailwind CSS • JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js" />
+</p>
 
-### AI / ML
+### AI / Machine Learning
 
-Python • Machine Learning • Computer Vision • OpenAI APIs
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
 ### DevOps
 
-Docker • Linux • Git • CI/CD
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### AI Hair Type Recognition App
+### 🤖 AI Hair Type Recognition App
 
-Mobile AI application that scans hair using a camera and identifies hair types using computer vision and machine learning.
+Mobile AI system that scans hair using a camera and identifies hair types using **computer vision and machine learning**.
 
-### Real-Time Delivery Tracking System
+**Tech:** Flutter • Node.js • Machine Learning • Computer Vision
 
-A delivery platform that allows users to track riders in real time.
+---
 
-Tech: NestJS • MongoDB • Flutter • Google Maps API
+### 📍 Real-Time Delivery Tracking System
 
-### Live Streaming Platform
+Delivery platform allowing users to **track riders in real time**.
 
-Real-time streaming platform with live chat and reactions.
+**Tech:** NestJS • MongoDB • Flutter • Google Maps API
 
-Tech: Node.js • Socket.IO • MongoDB • Flutter
+---
+
+### 🎥 Live Streaming Platform
+
+Real-time streaming platform with **live chat and reactions**.
+
+**Tech:** Node.js • Socket.IO • MongoDB • Flutter
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=checkycheck&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=checkycheck\&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=checkycheck&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checkycheck&layout=compact&theme=radical" />
 
-## 🔗 Connect With Me
-
-🌐 Portfolio: https://dungji-zacks-portfolio.vercel.app
-💼 LinkedIn: https://linkedin.com/in/dungji-gotau-69a24311b
-🐦 Twitter/X: https://x.com/9Dungji
-📧 Email: [dungji.zacks.9@email.com](mailto:dungji.zacks.9@email.com)
-💻 GitHub: https://github.com/checkycheck
+</p>
 
 ---
 
-⭐️ From [checkycheck](https://github.com/checkycheck)
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=checkycheck&theme=radical&border_radius=10" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/checkycheck/checkycheck/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+
+🌐 Portfolio
+https://dungji-zacks-portfolio.vercel.app
+
+💼 LinkedIn
+https://linkedin.com/in/dungji-gotau-69a24311b
+
+🐦 Twitter/X
+https://x.com/9Dungji
+
+📧 Email
+mailto:dungji[.zacks.9@email.com](mailto:.zacks.9@email.com)
+
+💻 GitHub
+https://github.com/checkycheck
+
+</p>
+
+---
+
+<p align="center">
+⭐️ From <a href="https://github.com/checkycheck">checkycheck</a>
+</p>
