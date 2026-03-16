@@ -65,7 +65,7 @@ Tech: Node.js • Socket.IO • MongoDB • Flutter
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=checkycheck\&show_icons=true\&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=checkycheck&show_icons=true&count_private=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=checkycheck\&layout=compact)
 
